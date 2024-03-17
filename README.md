@@ -2,16 +2,20 @@
 Created with a fellow student.
 
 Link to static page: [Click me](https://zyberzebra.github.io/medieval-render/#stills)
+![image](https://github.com/zyberzebra/medieval-render/assets/73640367/e575a955-1c1b-49ab-9e31-69c87144f1bd)
+
 
 # Timeline
 Used ref:
 https://unsplash.com/de/fotos/leere-strasse-zwischen-den-hausern-wtlSHRt9uRc (https://unsplash.com/de/lizenz)
 
 First scetch:
-![image](https://github.com/zyberzebra/medieval-render/assets/73640367/93b6d7ee-460e-4ee5-9ce8-e674b4718551)
+![image](https://github.com/zyberzebra/medieval-render/assets/73640367/572d5d31-1aec-405c-8ba3-5353be2a478f)
+
 
 and a little later
-![image](https://github.com/zyberzebra/medieval-render/assets/73640367/6ed4f91e-3b86-431a-bbba-da9343ac89a1)
+![image](https://github.com/zyberzebra/medieval-render/assets/73640367/46470657-5cc8-48eb-80eb-c253d3428486)
+
 
 # Models
 Every model was done "by hand"
