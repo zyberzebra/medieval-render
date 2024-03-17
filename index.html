@@ -1,0 +1,94 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css"
+          integrity="sha384-WskhaSGFgHYWDcbwN70/dfYBj47jz9qbsMId/iRN3ewGhXQFZCSftd1LZCfmhktB" crossorigin="anonymous">
+
+    <title>Medieval</title>
+
+    <style>
+        .Autobreite {
+            width: 100vw;
+        }
+
+        .Autobreite_hoch {
+            width: 75vh;
+        }
+
+    </style>
+    <script src="js/babylon.js"></script>
+    <script src="js/babylon.max.js"></script>
+    <!-- this is needed for BJS to load scene files -->
+    <script src="js/loaders/babylon.glTFFileLoader.js"></script>
+
+
+</head>
+<body>
+
+<!-- Nav tabs -->
+
+<ul class="nav nav-tabs" role="tablist">
+    <li class="nav-item">
+        <a class="nav-link active" href="#project" role="tab" data-toggle="tab">Project</a>
+    </li>
+    <li class="nav-item">
+        <a class="nav-link" href="#stills" role="tab" data-toggle="tab">Stills</a>
+    </li>
+    <li class="nav-item">
+        <a class="nav-link" href="#video" role="tab" data-toggle="tab">Video</a>
+    </li>
+</ul>
+
+
+<!-- Tab panes -->
+<div class="tab-content">
+    <div role="tabpanel" class="tab-pane active" id="project">
+        <h1>Project</h1>
+        <img src="images/render-000.png" class="img-fluid rounded img-responsive Autobreite" alt="Close Up">
+        <p> The idea for the project was to create a medieval street. The focus was on modeling the half-timbered
+            houses. The scene was to be made realistic by adding various decorative objects. </p>
+    </div>
+    <div role="tabpanel" class="tab-pane fade" id="stills">
+        <figure class="figure">
+            <img src="images/render-000.png" class="figure-img img-fluid rounded Autobreite" alt="Close Up">
+            <figcaption class="figure-caption img-responsive">View of the entire street</figcaption>
+        </figure>
+        <figure class="figure">
+            <img src="images/render-002.png" class="figure-img img-fluid rounded Autobreite" alt="Detail.">
+            <figcaption class="figure-caption img-responsive">An entrance to a house</figcaption>
+        </figure>
+        <figure class="figure">
+            <img src="images/render-001.png" class="figure-img img-fluid rounded Autobreite" alt="Overview 2.">
+            <figcaption class="figure-caption img-responsive">View from the ground</figcaption>
+        </figure>
+        <figure class="figure">
+            <img src="images/render-003.png" class="figure-img img-fluid rounded Autobreite_hoch" alt="Overview 1.">
+            <figcaption class="figure-caption img-responsive">Close-up of the decoration in front of the middle house
+            </figcaption>
+        </figure>
+    </div>
+    <div role="tabpanel" class="tab-pane fade" id="video">
+        <video controls="controls">
+            <source src="animation/Video.mp4" type="video/mp4">
+            Your browser does not support the HTML5 Video element.
+        </video>
+
+    </div>
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
+            integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
+            crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"
+            integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49"
+            crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js"
+            integrity="sha384-smHYKdLADwkXOn1EmN1qk/HfnUcbVRZyYmZ4qpPea6sjB/pTJ0euyQp0Mk8ck+5T"
+            crossorigin="anonymous"></script>
+</body>
+</html>
