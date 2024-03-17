@@ -2,7 +2,8 @@
 Created with a fellow student.
 
 Link to static page: [Click me](https://zyberzebra.github.io/medieval-render/#stills)
-![image](https://github.com/zyberzebra/medieval-render/assets/73640367/e575a955-1c1b-49ab-9e31-69c87144f1bd)
+![image](https://github.com/zyberzebra/medieval-render/assets/73640367/0ab74595-8f79-466e-b3c4-b97f86980b5c)
+
 
 
 # Timeline
