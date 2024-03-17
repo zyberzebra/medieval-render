@@ -1,17 +1,17 @@
 # University Project 
 Created with a fellow student.
 
-Link to static page: [Click me](https://zyberzebra.github.io/medieval/#stills)
+Link to static page: [Click me](https://zyberzebra.github.io/medieval-render/#stills)
 
 # Timeline
 Used ref:
 https://unsplash.com/de/fotos/leere-strasse-zwischen-den-hausern-wtlSHRt9uRc (https://unsplash.com/de/lizenz)
 
 First scetch:
-![image](https://github.com/zyberzebra/medieval/assets/73640367/93b6d7ee-460e-4ee5-9ce8-e674b4718551)
+![image](https://github.com/zyberzebra/medieval-render/assets/73640367/93b6d7ee-460e-4ee5-9ce8-e674b4718551)
 
 and a little later
-![image](https://github.com/zyberzebra/medieval/assets/73640367/6ed4f91e-3b86-431a-bbba-da9343ac89a1)
+![image](https://github.com/zyberzebra/medieval-render/assets/73640367/6ed4f91e-3b86-431a-bbba-da9343ac89a1)
 
 # Models
 Every model was done "by hand"
